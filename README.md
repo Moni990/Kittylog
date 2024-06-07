@@ -31,3 +31,6 @@ Deploy the API services to handle data communication between the app and sensors
 ## What questions/problems did you face?
 1. Developing a secure and scalable backend infrastructure to handle data processing and storage.
 2. Implementing real-time video streaming with minimal latency and high-quality resolution.
+
+## Video Link
+https://drive.google.com/file/d/14MOFrejQNSeyJIkKmtWwCtl_nh7DxsDS/view?usp=sharing
